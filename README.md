@@ -1,0 +1,10 @@
+# Stripe ID Verification 
+
+In your `.env` or `secrets` in replit
+
+{
+  "STRIPE_SECRET_KEY": "YOUR_STRIPE_SECRET_KEY",
+  "STRIPE_PUBLISHABLE_KEY": "YOUR_STRIPE_PUBLISHABLE_KEY",
+  "STATIC_DIR": "./",
+  "STRIPE_WEBHOOK_SECRET": "YOUR_STRIPE_WEBHOOK_SECRET"
+}
